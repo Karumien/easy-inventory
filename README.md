@@ -1,0 +1,2 @@
+# easy-inventory
+Easy Inventory
